@@ -1,0 +1,106 @@
+c:\users\administrador\documents\visual studio 2015\Projects\Reproductor\Reproductor\bin\Debug\Reproductor.exe.config
+c:\users\administrador\documents\visual studio 2015\Projects\Reproductor\Reproductor\bin\Debug\Reproductor.exe
+c:\users\administrador\documents\visual studio 2015\Projects\Reproductor\Reproductor\bin\Debug\Reproductor.pdb
+c:\users\administrador\documents\visual studio 2015\Projects\Reproductor\Reproductor\obj\Debug\Reproductor.csprojResolveAssemblyReference.cache
+c:\users\administrador\documents\visual studio 2015\Projects\Reproductor\Reproductor\obj\Debug\MainWindow.g.cs
+c:\users\administrador\documents\visual studio 2015\Projects\Reproductor\Reproductor\obj\Debug\App.g.cs
+c:\users\administrador\documents\visual studio 2015\Projects\Reproductor\Reproductor\obj\Debug\Reproductor_MarkupCompile.cache
+c:\users\administrador\documents\visual studio 2015\Projects\Reproductor\Reproductor\obj\Debug\MainWindow.baml
+c:\users\administrador\documents\visual studio 2015\Projects\Reproductor\Reproductor\obj\Debug\Reproductor.g.resources
+c:\users\administrador\documents\visual studio 2015\Projects\Reproductor\Reproductor\obj\Debug\Reproductor.Properties.Resources.resources
+c:\users\administrador\documents\visual studio 2015\Projects\Reproductor\Reproductor\obj\Debug\Reproductor.csproj.GenerateResource.Cache
+c:\users\administrador\documents\visual studio 2015\Projects\Reproductor\Reproductor\obj\Debug\Reproductor.exe
+c:\users\administrador\documents\visual studio 2015\Projects\Reproductor\Reproductor\obj\Debug\Reproductor.pdb
+C:\Users\Administrador\Documents\GitHub\Proyecto-Sistemas-Operativos\Reproductor\Reproductor\bin\Debug\Reproductor.exe.config
+C:\Users\Administrador\Documents\GitHub\Proyecto-Sistemas-Operativos\Reproductor\Reproductor\obj\Debug\Reproductor.exe
+C:\Users\Administrador\Documents\GitHub\Proyecto-Sistemas-Operativos\Reproductor\Reproductor\obj\Debug\Reproductor.pdb
+C:\Users\Administrador\Documents\GitHub\Proyecto-Sistemas-Operativos\Reproductor\Reproductor\bin\Debug\Reproductor.exe
+C:\Users\Administrador\Documents\GitHub\Proyecto-Sistemas-Operativos\Reproductor\Reproductor\bin\Debug\Reproductor.pdb
+C:\Users\Administrador\Documents\GitHub\Proyecto-Sistemas-Operativos\Reproductor\Reproductor\obj\Debug\Reproductor.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Documents\GitHub\Proyecto-Sistemas-Operativos\Reproductor\Reproductor\obj\Debug\MainWindow.baml
+C:\Users\Administrador\Documents\GitHub\Proyecto-Sistemas-Operativos\Reproductor\Reproductor\obj\Debug\MainWindow.g.cs
+C:\Users\Administrador\Documents\GitHub\Proyecto-Sistemas-Operativos\Reproductor\Reproductor\obj\Debug\App.g.cs
+C:\Users\Administrador\Documents\GitHub\Proyecto-Sistemas-Operativos\Reproductor\Reproductor\obj\Debug\Reproductor_MarkupCompile.cache
+C:\Users\Administrador\Documents\GitHub\Proyecto-Sistemas-Operativos\Reproductor\Reproductor\obj\Debug\Reproductor.g.resources
+C:\Users\Administrador\Documents\GitHub\Proyecto-Sistemas-Operativos\Reproductor\Reproductor\obj\Debug\Reproductor.Properties.Resources.resources
+C:\Users\Administrador\Documents\GitHub\Proyecto-Sistemas-Operativos\Reproductor\Reproductor\obj\Debug\Reproductor.csproj.GenerateResource.Cache
+C:\Users\Administrador\Desktop\Reproductor\Reproductor\obj\Debug\Reproductor.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\Reproductor\Reproductor\obj\Debug\MainWindow.baml
+C:\Users\Administrador\Desktop\Reproductor\Reproductor\obj\Debug\MainWindow.g.cs
+C:\Users\Administrador\Desktop\Reproductor\Reproductor\obj\Debug\App.g.cs
+C:\Users\Administrador\Desktop\Reproductor\Reproductor\obj\Debug\Reproductor_MarkupCompile.cache
+C:\Users\Administrador\Desktop\Reproductor\Reproductor\obj\Debug\Reproductor.g.resources
+C:\Users\Administrador\Desktop\Reproductor\Reproductor\obj\Debug\Reproductor.Properties.Resources.resources
+C:\Users\Administrador\Desktop\Reproductor\Reproductor\obj\Debug\Reproductor.csproj.GenerateResource.Cache
+C:\Users\Administrador\Desktop\Reproductor\Reproductor\obj\Debug\Reproductor.exe
+C:\Users\Administrador\Desktop\Reproductor\Reproductor\obj\Debug\Reproductor.pdb
+C:\Users\Administrador\Desktop\Reproductor\Reproductor\bin\Debug\Reproductor.exe.config
+C:\Users\Administrador\Desktop\Reproductor\Reproductor\bin\Debug\Reproductor.exe
+C:\Users\Administrador\Desktop\Reproductor\Reproductor\bin\Debug\Reproductor.pdb
+F:\Reproductor\Reproductor\bin\Debug\Reproductor.exe.config
+F:\Reproductor\Reproductor\bin\Debug\Reproductor.exe
+F:\Reproductor\Reproductor\bin\Debug\Reproductor.pdb
+F:\Reproductor\Reproductor\obj\Debug\Reproductor.csprojResolveAssemblyReference.cache
+F:\Reproductor\Reproductor\obj\Debug\MainWindow.baml
+F:\Reproductor\Reproductor\obj\Debug\MainWindow.g.cs
+F:\Reproductor\Reproductor\obj\Debug\App.g.cs
+F:\Reproductor\Reproductor\obj\Debug\Reproductor_MarkupCompile.cache
+F:\Reproductor\Reproductor\obj\Debug\Reproductor.g.resources
+F:\Reproductor\Reproductor\obj\Debug\Reproductor.Properties.Resources.resources
+F:\Reproductor\Reproductor\obj\Debug\Reproductor.csproj.GenerateResource.Cache
+F:\Reproductor\Reproductor\obj\Debug\Reproductor.exe
+F:\Reproductor\Reproductor\obj\Debug\Reproductor.pdb
+C:\Users\Administrador.JOSE-PC\Downloads\Proyecto-Sistemas-Operativos-master\Proyecto-Sistemas-Operativos-master\Reproductor\Reproductor\bin\Debug\Reproductor.exe.config
+C:\Users\Administrador.JOSE-PC\Downloads\Proyecto-Sistemas-Operativos-master\Proyecto-Sistemas-Operativos-master\Reproductor\Reproductor\bin\Debug\Reproductor.exe
+C:\Users\Administrador.JOSE-PC\Downloads\Proyecto-Sistemas-Operativos-master\Proyecto-Sistemas-Operativos-master\Reproductor\Reproductor\bin\Debug\Reproductor.pdb
+C:\Users\Administrador.JOSE-PC\Downloads\Proyecto-Sistemas-Operativos-master\Proyecto-Sistemas-Operativos-master\Reproductor\Reproductor\bin\Debug\EntityFramework.dll
+C:\Users\Administrador.JOSE-PC\Downloads\Proyecto-Sistemas-Operativos-master\Proyecto-Sistemas-Operativos-master\Reproductor\Reproductor\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Administrador.JOSE-PC\Downloads\Proyecto-Sistemas-Operativos-master\Proyecto-Sistemas-Operativos-master\Reproductor\Reproductor\bin\Debug\EntityFramework.xml
+C:\Users\Administrador.JOSE-PC\Downloads\Proyecto-Sistemas-Operativos-master\Proyecto-Sistemas-Operativos-master\Reproductor\Reproductor\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Administrador.JOSE-PC\Downloads\Proyecto-Sistemas-Operativos-master\Proyecto-Sistemas-Operativos-master\Reproductor\Reproductor\obj\Debug\Reproductor.csprojResolveAssemblyReference.cache
+C:\Users\Administrador.JOSE-PC\Downloads\Proyecto-Sistemas-Operativos-master\Proyecto-Sistemas-Operativos-master\Reproductor\Reproductor\obj\Debug\MainWindow.baml
+C:\Users\Administrador.JOSE-PC\Downloads\Proyecto-Sistemas-Operativos-master\Proyecto-Sistemas-Operativos-master\Reproductor\Reproductor\obj\Debug\MainWindow.g.cs
+C:\Users\Administrador.JOSE-PC\Downloads\Proyecto-Sistemas-Operativos-master\Proyecto-Sistemas-Operativos-master\Reproductor\Reproductor\obj\Debug\App.g.cs
+C:\Users\Administrador.JOSE-PC\Downloads\Proyecto-Sistemas-Operativos-master\Proyecto-Sistemas-Operativos-master\Reproductor\Reproductor\obj\Debug\Reproductor_Content.g.cs
+C:\Users\Administrador.JOSE-PC\Downloads\Proyecto-Sistemas-Operativos-master\Proyecto-Sistemas-Operativos-master\Reproductor\Reproductor\obj\Debug\Reproductor_MarkupCompile.cache
+C:\Users\Administrador.JOSE-PC\Downloads\Proyecto-Sistemas-Operativos-master\Proyecto-Sistemas-Operativos-master\Reproductor\Reproductor\obj\Debug\Reproductor.g.resources
+C:\Users\Administrador.JOSE-PC\Downloads\Proyecto-Sistemas-Operativos-master\Proyecto-Sistemas-Operativos-master\Reproductor\Reproductor\obj\Debug\Reproductor.Properties.Resources.resources
+C:\Users\Administrador.JOSE-PC\Downloads\Proyecto-Sistemas-Operativos-master\Proyecto-Sistemas-Operativos-master\Reproductor\Reproductor\obj\Debug\Reproductor.csproj.GenerateResource.Cache
+C:\Users\Administrador.JOSE-PC\Downloads\Proyecto-Sistemas-Operativos-master\Proyecto-Sistemas-Operativos-master\Reproductor\Reproductor\obj\Debug\Reproductor.exe
+C:\Users\Administrador.JOSE-PC\Downloads\Proyecto-Sistemas-Operativos-master\Proyecto-Sistemas-Operativos-master\Reproductor\Reproductor\obj\Debug\Reproductor.pdb
+C:\Users\Administrador.JOSE-PC\Documents\GitHub\Proyecto-Sistemas-Operativos\Reproductor\Reproductor\bin\Debug\Reproductor.exe.config
+C:\Users\Administrador.JOSE-PC\Documents\GitHub\Proyecto-Sistemas-Operativos\Reproductor\Reproductor\bin\Debug\Reproductor.exe
+C:\Users\Administrador.JOSE-PC\Documents\GitHub\Proyecto-Sistemas-Operativos\Reproductor\Reproductor\bin\Debug\Reproductor.pdb
+C:\Users\Administrador.JOSE-PC\Documents\GitHub\Proyecto-Sistemas-Operativos\Reproductor\Reproductor\bin\Debug\EntityFramework.dll
+C:\Users\Administrador.JOSE-PC\Documents\GitHub\Proyecto-Sistemas-Operativos\Reproductor\Reproductor\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Administrador.JOSE-PC\Documents\GitHub\Proyecto-Sistemas-Operativos\Reproductor\Reproductor\bin\Debug\EntityFramework.xml
+C:\Users\Administrador.JOSE-PC\Documents\GitHub\Proyecto-Sistemas-Operativos\Reproductor\Reproductor\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Administrador.JOSE-PC\Documents\GitHub\Proyecto-Sistemas-Operativos\Reproductor\Reproductor\obj\Debug\Reproductor.csprojResolveAssemblyReference.cache
+C:\Users\Administrador.JOSE-PC\Documents\GitHub\Proyecto-Sistemas-Operativos\Reproductor\Reproductor\obj\Debug\MainWindow.baml
+C:\Users\Administrador.JOSE-PC\Documents\GitHub\Proyecto-Sistemas-Operativos\Reproductor\Reproductor\obj\Debug\MainWindow.g.cs
+C:\Users\Administrador.JOSE-PC\Documents\GitHub\Proyecto-Sistemas-Operativos\Reproductor\Reproductor\obj\Debug\App.g.cs
+C:\Users\Administrador.JOSE-PC\Documents\GitHub\Proyecto-Sistemas-Operativos\Reproductor\Reproductor\obj\Debug\Reproductor_Content.g.cs
+C:\Users\Administrador.JOSE-PC\Documents\GitHub\Proyecto-Sistemas-Operativos\Reproductor\Reproductor\obj\Debug\Reproductor_MarkupCompile.cache
+C:\Users\Administrador.JOSE-PC\Documents\GitHub\Proyecto-Sistemas-Operativos\Reproductor\Reproductor\obj\Debug\Reproductor.g.resources
+C:\Users\Administrador.JOSE-PC\Documents\GitHub\Proyecto-Sistemas-Operativos\Reproductor\Reproductor\obj\Debug\Reproductor.Properties.Resources.resources
+C:\Users\Administrador.JOSE-PC\Documents\GitHub\Proyecto-Sistemas-Operativos\Reproductor\Reproductor\obj\Debug\Reproductor.csproj.GenerateResource.Cache
+C:\Users\Administrador.JOSE-PC\Documents\GitHub\Proyecto-Sistemas-Operativos\Reproductor\Reproductor\obj\Debug\Reproductor.exe
+C:\Users\Administrador.JOSE-PC\Documents\GitHub\Proyecto-Sistemas-Operativos\Reproductor\Reproductor\obj\Debug\Reproductor.pdb
+C:\Users\Carrillo\Desktop\Proyecto-Sistemas-Operativos-master\Reproductor\Reproductor\bin\Debug\Reproductor.exe.config
+C:\Users\Carrillo\Desktop\Proyecto-Sistemas-Operativos-master\Reproductor\Reproductor\bin\Debug\Reproductor.exe
+C:\Users\Carrillo\Desktop\Proyecto-Sistemas-Operativos-master\Reproductor\Reproductor\bin\Debug\Reproductor.pdb
+C:\Users\Carrillo\Desktop\Proyecto-Sistemas-Operativos-master\Reproductor\Reproductor\bin\Debug\EntityFramework.dll
+C:\Users\Carrillo\Desktop\Proyecto-Sistemas-Operativos-master\Reproductor\Reproductor\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Carrillo\Desktop\Proyecto-Sistemas-Operativos-master\Reproductor\Reproductor\bin\Debug\EntityFramework.xml
+C:\Users\Carrillo\Desktop\Proyecto-Sistemas-Operativos-master\Reproductor\Reproductor\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Carrillo\Desktop\Proyecto-Sistemas-Operativos-master\Reproductor\Reproductor\obj\Debug\Reproductor.csprojResolveAssemblyReference.cache
+C:\Users\Carrillo\Desktop\Proyecto-Sistemas-Operativos-master\Reproductor\Reproductor\obj\Debug\MainWindow.baml
+C:\Users\Carrillo\Desktop\Proyecto-Sistemas-Operativos-master\Reproductor\Reproductor\obj\Debug\MainWindow.g.cs
+C:\Users\Carrillo\Desktop\Proyecto-Sistemas-Operativos-master\Reproductor\Reproductor\obj\Debug\App.g.cs
+C:\Users\Carrillo\Desktop\Proyecto-Sistemas-Operativos-master\Reproductor\Reproductor\obj\Debug\Reproductor_Content.g.cs
+C:\Users\Carrillo\Desktop\Proyecto-Sistemas-Operativos-master\Reproductor\Reproductor\obj\Debug\Reproductor_MarkupCompile.cache
+C:\Users\Carrillo\Desktop\Proyecto-Sistemas-Operativos-master\Reproductor\Reproductor\obj\Debug\Reproductor.g.resources
+C:\Users\Carrillo\Desktop\Proyecto-Sistemas-Operativos-master\Reproductor\Reproductor\obj\Debug\Reproductor.Properties.Resources.resources
+C:\Users\Carrillo\Desktop\Proyecto-Sistemas-Operativos-master\Reproductor\Reproductor\obj\Debug\Reproductor.csproj.GenerateResource.Cache
+C:\Users\Carrillo\Desktop\Proyecto-Sistemas-Operativos-master\Reproductor\Reproductor\obj\Debug\Reproductor.exe
+C:\Users\Carrillo\Desktop\Proyecto-Sistemas-Operativos-master\Reproductor\Reproductor\obj\Debug\Reproductor.pdb
