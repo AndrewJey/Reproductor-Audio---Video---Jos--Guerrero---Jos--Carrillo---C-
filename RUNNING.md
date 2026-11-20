@@ -32,3 +32,11 @@ Inventario y compilaciones locales del 2026-11-15. Una compilación correcta no 
 
 `.gitignore` excluye credenciales locales, estado del editor y salidas de las herramientas detectadas. No deja de versionar archivos que ya estaban en Git. Los manifiestos, archivos de bloqueo, recursos fuente y scripts de esquema forman parte del código.
 <!-- local-development:end -->
+
+<!-- improvements-20261119:start -->
+## Mejoras y verificación — 2026-11-19 (Persistencia fiable de playlist, contadores seguros y navegación robusta)
+
+- Corregido el bug de `SaveTracks()` (reutilizaba una sola entidad `Tracks` fuera del bucle), la llamada repetida a `PlayTrack()` dentro de `LoadTracks()` y los fallos de `PerformanceCounter` en entornos restringidos.
+- Añadido `PlaylistStore` con deduplicación case-insensitive, extensiones multimedia ampliadas, respaldo local (`REPRODUCTOR_DATA_DIR`) y limpieza de temporizadores en `OnClosed`.
+- Validación: compilación MSBuild WPF y 8 aserciones sobre normalización, deduplicación, persistencia y navegación circular.
+<!-- improvements-20261119:end -->
